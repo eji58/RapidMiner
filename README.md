@@ -4,5 +4,5 @@ contact me: alzahrani.esraa1@gmail.com.
 
 All the description of the projects here: 
 # First Project #1
-This is a sample project using the standard Iris dataset and apple the K mean model with K=3 because we have 3 classes to find the cluster between found in the pattern.
+This is a sample project using the standard Iris dataset and applies the K mean model with K=3 because we have 3 classes to find the cluster between found in the pattern.
  
